@@ -1,0 +1,23 @@
+{
+  "name": "introduccion-node-js",
+  "version": "1.0.0",
+  "description": "modulo node js de introduccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliocesaracosta/introduccionlibreriasnodejs.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs"
+  ],
+  "author": "julio cesar acosta lopez <jcesartrabajo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliocesaracosta/introduccionlibreriasnodejs/issues"
+  },
+  "homepage": "https://github.com/juliocesaracosta/introduccionlibreriasnodejs#readme"
+}
